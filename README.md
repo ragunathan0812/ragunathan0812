@@ -1,19 +1,16 @@
 <h1 align="center">Hi, I'm Ragunathan 👋</h1>
 
 <p align="center">
-  <b>Data Analyst · ML Engineer · Mathematics Graduate</b><br/>
+  <b>Data Analyst · Data Scientist · Mathematics Graduate</b><br/>
   📍 Bengaluru, India &nbsp;|&nbsp; Open to full-time opportunities
 </p>
 
 <p align="center">
-  <a href="https://linkedin.com/in/YOUR-LINKEDIN-HANDLE">
+  <a href="https://linkedin.com/in/ragunathan0812">
     <img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" />
   </a>
-  <a href="mailto:YOUR-EMAIL@gmail.com">
+  <a href="mailto:ragunathan0812@gmail.com">
     <img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" />
-  </a>
-  <a href="https://YOUR-STREAMLIT-URL">
-    <img src="https://img.shields.io/badge/Live_App-FF4B4B?style=for-the-badge&logo=streamlit&logoColor=white" />
   </a>
 </p>
 
